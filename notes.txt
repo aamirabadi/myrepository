@@ -1,0 +1,3 @@
+Git is a tool for adding and following stuff.
+
+Git is cool.
